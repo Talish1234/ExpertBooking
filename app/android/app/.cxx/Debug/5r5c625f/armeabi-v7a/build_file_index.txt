@@ -1,0 +1,2 @@
+C:\Learn\vedaz\Vedaz_Assignment\app\node_modules\react-native-safe-area-context\android\src\main\jni\CMakeLists.txt
+C:\Learn\vedaz\Vedaz_Assignment\app\node_modules\react-native\ReactAndroid\cmake-utils\default-app-setup\CMakeLists.txt

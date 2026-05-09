@@ -1,0 +1,14 @@
+# ninja log v5
+5	58	0	C:/Learn/vedaz/Vedaz_Assignment/app/android/app/.cxx/RelWithDebInfo/4e3d1ni4/arm64-v8a/CMakeFiles/cmake.verify_globs	140a724d502c2733
+81	11192	8000678435338623	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/61de24a5925b42908e66aa9347da1f7d/renderer/components/safeareacontext/States.cpp.o	981ff598c4e5d850
+37	12190	8000678445359258	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/b1fbaf07cb3387d4c148e129ca15481d/components/safeareacontext/EventEmitters.cpp.o	343c926bbc876a9f
+72	13108	8000678454505787	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/1495f3c5715e6d1546c600d5d771275f/source/codegen/jni/safeareacontext-generated.cpp.o	77c04bd5b2730770
+11	13763	8000678461131158	CMakeFiles/appmodules.dir/OnLoad.cpp.o	5ce4b77f79191802
+27	23062	8000678554017262	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/849a835a12d87bb213f95dcc3642b7c3/safeareacontext/RNCSafeAreaViewState.cpp.o	f9699f901b0fde59
+62	23398	8000678557475423	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/b1fbaf07cb3387d4c148e129ca15481d/components/safeareacontext/ShadowNodes.cpp.o	c230216e312f9492
+54	26042	8000678583849893	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/8ffebd7caff6cbcebc1891c3f85cca01/safeareacontext/ComponentDescriptors.cpp.o	90b1f1ca8b33f59d
+19	26235	8000678585797714	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/849a835a12d87bb213f95dcc3642b7c3/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	5c6763e4512ef54f
+45	26269	8000678586105062	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/61de24a5925b42908e66aa9347da1f7d/renderer/components/safeareacontext/Props.cpp.o	80960df09da6c74
+4	26311	8000678586421481	CMakeFiles/appmodules.dir/C_/Learn/vedaz/Vedaz_Assignment/app/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	5eb0ba28fbfb8b62
+26270	26470	8000678588066947	C:/Learn/vedaz/Vedaz_Assignment/app/android/app/build/intermediates/cxx/RelWithDebInfo/4e3d1ni4/obj/arm64-v8a/libreact_codegen_safeareacontext.so	63b81d7741b61fb9
+26471	26684	8000678590315137	C:/Learn/vedaz/Vedaz_Assignment/app/android/app/build/intermediates/cxx/RelWithDebInfo/4e3d1ni4/obj/arm64-v8a/libappmodules.so	97c2446fea9003dd

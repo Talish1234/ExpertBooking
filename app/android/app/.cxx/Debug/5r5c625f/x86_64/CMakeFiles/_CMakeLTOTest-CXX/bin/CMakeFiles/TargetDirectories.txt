@@ -1,0 +1,4 @@
+C:/Learn/vedaz/Vedaz_Assignment/app/android/app/.cxx/Debug/5r5c625f/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+C:/Learn/vedaz/Vedaz_Assignment/app/android/app/.cxx/Debug/5r5c625f/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+C:/Learn/vedaz/Vedaz_Assignment/app/android/app/.cxx/Debug/5r5c625f/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+C:/Learn/vedaz/Vedaz_Assignment/app/android/app/.cxx/Debug/5r5c625f/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

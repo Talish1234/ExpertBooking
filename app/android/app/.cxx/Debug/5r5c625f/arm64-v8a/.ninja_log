@@ -1,0 +1,22 @@
+# ninja log v5
+8	2083	0	C:/Learn/vedaz/Vedaz_Assignment/app/android/app/.cxx/Debug/5r5c625f/arm64-v8a/CMakeFiles/cmake.verify_globs	aaddd67896cd24bb
+64	11097	8000667161727343	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ae2e642502340a4174dcbb5dc4a7558e/jni/react/renderer/components/safeareacontext/States.cpp.o	d44e959acad3f8ac
+23	11551	8000667166172516	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/61de24a5925b42908e66aa9347da1f7d/renderer/components/safeareacontext/EventEmitters.cpp.o	47900df4044b5a4
+56	12484	8000667175496475	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/1495f3c5715e6d1546c600d5d771275f/source/codegen/jni/safeareacontext-generated.cpp.o	5363bf2ca16729c9
+81	13780	8000667188469901	CMakeFiles/appmodules.dir/OnLoad.cpp.o	aca0405e4e9db5f9
+14	21329	8000667263964202	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/b8c49542e930328aca9799566aa1b9ac/components/safeareacontext/RNCSafeAreaViewState.cpp.o	9613b23b3a0066cd
+49	21338	8000667264030984	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/f626222165be59422d27a735b660e9a1/react/renderer/components/safeareacontext/ShadowNodes.cpp.o	b5ebce25be9265d3
+40	22120	8000667271711424	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ae2e642502340a4174dcbb5dc4a7558e/jni/react/renderer/components/safeareacontext/Props.cpp.o	ed6374d956fec953
+31	22735	8000667277856823	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/b1fbaf07cb3387d4c148e129ca15481d/components/safeareacontext/ComponentDescriptors.cpp.o	809cefbfdfad834
+72	23546	8000667285831858	CMakeFiles/appmodules.dir/C_/Learn/vedaz/Vedaz_Assignment/app/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	78fa4d982c7e497a
+3	24119	8000667291683633	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/b8c49542e930328aca9799566aa1b9ac/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	741d42bfd69b9a6e
+24120	24318	8000667293882335	C:/Learn/vedaz/Vedaz_Assignment/app/android/app/build/intermediates/cxx/Debug/5r5c625f/obj/arm64-v8a/libreact_codegen_safeareacontext.so	c345182d21978565
+24319	24489	8000667295672132	C:/Learn/vedaz/Vedaz_Assignment/app/android/app/build/intermediates/cxx/Debug/5r5c625f/obj/arm64-v8a/libappmodules.so	e36012e02d84ba66
+5	49	0	C:/Learn/vedaz/Vedaz_Assignment/app/android/app/.cxx/Debug/5r5c625f/arm64-v8a/CMakeFiles/cmake.verify_globs	aaddd67896cd24bb
+7	44	0	C:/Learn/vedaz/Vedaz_Assignment/app/android/app/.cxx/Debug/5r5c625f/arm64-v8a/CMakeFiles/cmake.verify_globs	aaddd67896cd24bb
+6	49	0	C:/Learn/vedaz/Vedaz_Assignment/app/android/app/.cxx/Debug/5r5c625f/arm64-v8a/CMakeFiles/cmake.verify_globs	aaddd67896cd24bb
+3	43	0	C:/Learn/vedaz/Vedaz_Assignment/app/android/app/.cxx/Debug/5r5c625f/arm64-v8a/CMakeFiles/cmake.verify_globs	aaddd67896cd24bb
+4	42	0	C:/Learn/vedaz/Vedaz_Assignment/app/android/app/.cxx/Debug/5r5c625f/arm64-v8a/CMakeFiles/cmake.verify_globs	aaddd67896cd24bb
+2	33	0	C:/Learn/vedaz/Vedaz_Assignment/app/android/app/.cxx/Debug/5r5c625f/arm64-v8a/CMakeFiles/cmake.verify_globs	aaddd67896cd24bb
+6	40	0	C:/Learn/vedaz/Vedaz_Assignment/app/android/app/.cxx/Debug/5r5c625f/arm64-v8a/CMakeFiles/cmake.verify_globs	aaddd67896cd24bb
+11	44	0	C:/Learn/vedaz/Vedaz_Assignment/app/android/app/.cxx/Debug/5r5c625f/arm64-v8a/CMakeFiles/cmake.verify_globs	aaddd67896cd24bb

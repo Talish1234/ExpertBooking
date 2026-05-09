@@ -1,4 +1,4 @@
-const VITE_BASE_URL: string = "https://expertbooking.onrender.com";
+const VITE_BASE_URL: string = "https://expert-booking-4jsf.onrender.com";
 
 export const API_BASE: string = `${VITE_BASE_URL}/api`;
 export const SOCKET_URL: string = VITE_BASE_URL;
